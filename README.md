@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/repo-banner.png" alt="Evogen-Mapper — Phylogenetic Data Matrix Engine" width="100%">
+  <img src="assets/banner.png" alt="Evogen-Mapper — Phylogenetic Data Matrix Engine" width="100%">
 </p>
 
 # 🧬 Evogen-Mapper
