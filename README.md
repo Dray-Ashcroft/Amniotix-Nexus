@@ -2,15 +2,15 @@
   <img src="assets/banner.png" alt="Evogen-Mapper — Phylogenetic Data Matrix Engine" width="100%">
 </p>
 
-# 🧬 Evogen-Mapper
+# 🧬 Amniotix-Nexus 
 
 ### *Phylogenetic Data Matrix Engine*
 
-> **Evogen-Mapper** is an interactive visualization exploring **phylogenetic data matrices, cladograms, and evolutionary relationships** through dynamic character and taxa management.
+> **Amniotix-Nexus** is an interactive visualization exploring **phylogenetic data matrices, cladograms, and evolutionary relationships** through dynamic character and taxa management.
 >
 🧬 **Phylogeny** · 🌳 **Cladistics** · 🌀 **Evolution**
 
-**🔬 [Explore the Simulation](https://evo-gen.stark-kodex.workers.dev)**
+**🔬 [Explore the Simulation](https://amniotix-nexus.stark-kodex.workers.dev)**
 
 ---
 
@@ -46,8 +46,7 @@ Access debugging tools and live trait manipulation for development and testing.
 
 **HTML · CSS · JavaScript**
 
-**Database & Assets:** Supabase  
-**Repository:** GitHub & Codeberg  
+**Database & Assets:** GitHub & Codeberg
 **Hosting:** Cloudflare
 
 ---
